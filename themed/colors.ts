@@ -1,0 +1,42 @@
+export default  {
+    light: {
+        zoom_blue: "#2D8CFF",
+        zoom_orange: "#ff732e",
+        main_bg: '#ffffff',
+        tabbar_bg: '#ffffff',
+        header_bg: '#39394d',
+        list_item_bg: '#ffffff',
+        popup_modal_bg: '#f9f9f9',
+        btn_disabled: '#e9e9ed',
+        toggle_switch_green: '#31d158',
+        main_text_color: '#000000',
+        alt_text_color: '#51515e',
+        calendar_page_bg: '#f7f9fa',
+        calendar_bg: '#ffffff',
+        inverseBlack: "white",
+        alt_page_btn_bg: "#efeff3",
+        team_chat_icon_cont_bg: "#f0f4f6",
+        team_chat_icon_bg: "#6d7680",
+        border_color: "#e6e6ef", // <==== added after the tutorial
+    },
+    dark: {
+        zoom_blue: "#2D8CFF",
+        zoom_orange: "#ff732e",
+        main_bg: '#242424',
+        tabbar_bg: '#1a1a1a',
+        header_bg: '#242424',
+        list_item_bg: '#2e2e2e',
+        popup_modal_bg: '#242424',
+        btn_disabled: '#373737',
+        toggle_switch_green: '#31d158',
+        main_text_color: '#ffffff',
+        alt_text_color: '#a5a5a5',
+        calendar_page_bg: '#141619',
+        calendar_bg: '#252a30',
+        inverseBlack: "black",
+        alt_page_btn_bg: "#161616",
+        team_chat_icon_cont_bg: "#4b4b4b",
+        team_chat_icon_bg: "#f5f5f5",
+        border_color: "#333333", // <==== added after the tutorial
+    }
+}
